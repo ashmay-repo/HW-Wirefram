@@ -50,21 +50,21 @@ table {
 body {
     background: linear-gradient(#742d5b, #7416d4);
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    color: #777777;
+    color: #444444;
     width: 960px;
     font-size: 18px;    
 }
 header, nav, section, aside, footer{
-    background:#ebebeb
+    background: linear-gradient(#6288d5,#62843e);
 }
-article {
+a {
     color: #444444;
-    background: linear-gradient(#96f3cf, #96f0ed)
+    background: linear-gradient(#96f3cf, #96f0ed);
 }
-h1 and p {
-    color: 777;
+h1, h3 and p {
+    color: #444444;
     background: linear-gradient(#96a385, #967fb1);
 }
 section {
-    width: 495px
+    width: 495px;
 }
